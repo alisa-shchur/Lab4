@@ -1,0 +1,7 @@
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\bin\Lab4.dll.config
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\bin\Lab4.dll
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\bin\Lab4.pdb
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\obj\Debug\Lab4.dll
+C:\Users\horan\OneDrive\Рабочий стол\asp.net\Lab4\Lab4\obj\Debug\Lab4.pdb
